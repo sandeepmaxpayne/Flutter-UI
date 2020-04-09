@@ -1,4 +1,4 @@
-# fight_corona
+# fight_corona_UI
 
 A new Flutter application.
 
